@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#8E24AA",
+        "statusBar.foreground": "#ffffff",
+        "activityBar.background": "#8E24AA"
+    },
+    "csharp-dev-tools.solutionViewer.selectedWorkspaceSolutions": [
+        "qt/examples/activeqt/dotnet/wrapper/wrapper.sln"
+    ]
+}
